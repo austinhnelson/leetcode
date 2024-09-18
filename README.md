@@ -1,4 +1,4 @@
-# **LeetCode Solutions** :bulb: :rocket:
+# **[LeetCode Solutions](https://leetcode.com/)** :bulb: :rocket:
 
 ![Static Badge](https://img.shields.io/badge/language-c%23-purple)
 ![Static Badge](https://img.shields.io/badge/easy-7-green)
@@ -8,3 +8,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=austinhnelson.leetcode)
 
 - A collection of my solved problems from LeetCode.
+
+## Problem Log
+
+| #   | Name | Language | Difficulty | Date Solved |
+| --- | :--: | -------: | ---------- | ----------- |
