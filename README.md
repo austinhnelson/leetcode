@@ -10,5 +10,6 @@
 
 ## Problem Log
 
-| #   | Name | Language | Difficulty | Date Solved |
-| --- | :--: | -------: | ---------- | ----------- |
+| #   | Name           | Language | Difficulty | Date Solved |
+| --- | :--:           | -------: | ---------- | ----------- |
+| 392 | Is Subsequence | C# C++ | easy | 9/18/2024 |  
