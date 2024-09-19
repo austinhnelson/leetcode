@@ -1,6 +1,6 @@
 # **[LeetCode Solutions](https://leetcode.com/)** :bulb: :rocket:
 
-![Static Badge](https://img.shields.io/badge/language-c%23-purple)
+![Static Badge](https://img.shields.io/badge/language-c%23%2C%20python-purple)
 ![Static Badge](https://img.shields.io/badge/easy-9-green)
 ![Static Badge](https://img.shields.io/badge/medium-0-orange)
 ![Static Badge](https://img.shields.io/badge/hard-0-red?color=%23ff0000)
