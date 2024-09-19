@@ -7,6 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/total-10-yellow)
 
 - A collection of my solved problems from LeetCode.
+- I started tracking my solved problems on 9/18/2024 so my problem log reflects this. There are past problems not recorded but present in the repo.
 
 ## Problem Log
 
