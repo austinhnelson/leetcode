@@ -12,5 +12,6 @@
 ## Problem Log
 
 |  #  |      Name       | Language | Difficulty | Date Solved |
-| :-: | :-------------: | -------: | :--------: | :---------: |
+| :-: | :-------------: | :-------: | :--------: | :---------: |
 | 392 | Is Subsequence  |  C# C++  |    easy    |  9/18/2024  |
+| 643 | Maximum Average Subarray I | C# | easy | 9/22/2024 |
