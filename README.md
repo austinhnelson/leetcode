@@ -16,3 +16,4 @@
 | 392 | Is Subsequence  |  C# C++  |    easy    |  9/18/2024  |
 | 643 | Maximum Average Subarray I | C# | easy | 9/22/2024 |
 | 206 | Reverse Linked List | C# | easy | 11/5/2024 |
+| 374 | Guess Number Higher or Lower | C# | easy | 11/7/2024 |
